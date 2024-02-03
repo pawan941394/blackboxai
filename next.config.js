@@ -16,7 +16,7 @@ const nextConfig = {
       },
     ],
   },
-  distDir: 'build',
+  distDir: 'base',
 };
 
 module.exports = nextConfig;
